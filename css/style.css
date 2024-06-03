@@ -269,7 +269,7 @@ header {
 
 .span-language::before {
     content: "";
-    background-image: url(image/union.png);
+    background-image: url(../image/union.png);
     background-repeat: no-repeat;
     display: inline-block;
     width: 16px;
@@ -391,47 +391,47 @@ header {
 }
 
 .img-world {
-    background-image: url(image/world.png);
+    background-image: url(../image/world.png);
     width: 100px;
     height: 221px;
 }
 
 .img-shield {
-    background-image: url(image/shield.png);
+    background-image: url(../image/shield.png);
 }
 
 .img-dollar {
-    background-image: url(image/dollar.png);
+    background-image: url(../image/dollar.png);
     width: 100px;
     height: 221px;
 }
 
 .img-soccer-yellow {
-    background-image: url(image/soccer.png);
+    background-image: url(../image/soccer.png);
 }
 
 .img-m-purple {
-    background-image: url(image/m.png);
+    background-image: url(../image/m.png);
 }
 
 .img-m-white {
-    background-image: url(image/m-centr.png);
+    background-image: url(../image/m-centr.png);
 }
 
 .img-timer {
-    background-image: url(image/timer.png);
+    background-image: url(../image/timer.png);
 }
 
 .img-crown {
-    background-image: url(image/crown.png);
+    background-image: url(../image/crown.png);
 }
 
 .img-m-green {
-    background-image: url(image/m-r.png);
+    background-image: url(../image/m-r.png);
 }
 
 .img-soccer-white {
-    background-image: url(image/soccer-r.png);
+    background-image: url(../image/soccer-r.png);
 }
 
 .scroll-gradient {
