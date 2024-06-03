@@ -184,10 +184,8 @@ header {
 }
 
 .navigation-burger a {
-    
     color: #fff;
     padding: 10px;
-    text-decoration: none;
     display: block;
     padding: 12px 20px 12px 20px;
     border: 2px solid #f97247;
@@ -196,6 +194,7 @@ header {
 
 .navigation-burger a:hover {
     background-color: #444;
+    text-decoration: none;
 }
 
 .navigation-burger .login {
