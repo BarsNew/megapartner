@@ -73,7 +73,7 @@
         justify-content: end;
     }
     .btns-header-lang {
-        background-image: url(image/union.png);
+        background-image: url(../image/union.png);
         background-repeat: no-repeat;
         width: 36px;
         height: 36px;
@@ -220,38 +220,38 @@
         margin: 10px 7px;
     }
     .img-world {
-        background-image: url(image/world-mob.png );
+        background-image: url(../image/world-mob.png );
         width: 109px;
         height: 50px;
     }
     .img-shield {
-        background-image: url(image/shield-mob.png);
+        background-image: url(../image/shield-mob.png);
     }
     .img-dollar {
-        background-image: url(image/dollar-mob.png);
+        background-image: url(../image/dollar-mob.png);
         width: 109px;
         height: 50px;
     }
     .img-soccer-yellow {
-        background-image: url(image/soccer-yellow.png);
+        background-image: url(../image/soccer-yellow.png);
     }
     .img-m-purple {
-        background-image: url(image/m-mob-purple.png);
+        background-image: url(../image/m-mob-purple.png);
     }
     .img-m-white {
-        background-image: url(image/m-mob-white.png);
+        background-image: url(../image/m-mob-white.png);
     }
     .img-timer {
-        background-image: url(image/timer-mob.png);
+        background-image: url(../image/timer-mob.png);
     }
     .img-crown {
-        background-image: url(image/crown-mob.png);
+        background-image: url(../image/crown-mob.png);
     }
     .img-m-green {
-        background-image: url(image/m-mob-green.png);
+        background-image: url(../image/m-mob-green.png);
     }
     .img-soccer-white {
-        background-image: url(image/soccer-mob-white.png);
+        background-image: url(../image/soccer-mob-white.png);
     }
     .blog {
         padding-bottom: 143px;
